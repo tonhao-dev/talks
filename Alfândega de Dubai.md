@@ -43,6 +43,10 @@ _Implementação do COBIT 5_
 
 ---
 
+### Luís Antônio (Tonhão)
+
+---
+
 ### A Cascata de Metas do COBIT
 ![-](https://www.isaca.org/resources/news-and-trends/industry-news/2016/-/media/images/isacadp/project/isaca/articles/cobit-focus/2016/cf-18-january-2016-2.jpg)
 
