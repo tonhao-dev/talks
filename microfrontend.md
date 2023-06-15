@@ -1,5 +1,5 @@
 ---
-theme: "night"
+theme: "blood"
 transition: "slide"
 title: "Micro Frontend"
 enableMenu: true
@@ -301,3 +301,12 @@ https://micro-frontends.org/1-composition-client-only/
 ### Microfrontend architecture
 
 _Luis Antonio (tonhao.dev)_ 
+
+---
+
+### Referências
+
+1. https://www.youtube.com/watch?v=KZpSghOWOnE&t=1418s&ab_channel=FullCycle
+2. https://www.youtube.com/watch?v=SC1QkRfFccE&t=359s&ab_channel=Codeminer42
+3. https://dev.to/jpbrab0/o-que-e-micro-front-end-4kci#:~:text=Micro%20Front-end%20%C3%A9%20um,dessas%20funcionalidades%20de%20forma%20independente
+4. https://micro-frontends.org/
