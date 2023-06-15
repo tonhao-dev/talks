@@ -14,6 +14,10 @@ _Luís Antônio (tonhao.dev)_
 
 ---
 
+![-](https://cdn.discordapp.com/attachments/839151579416363048/1119037687723204728/FyslugYWAAARIpI.png)
+
+---
+
 ### Objetivo
 - O que é
 - Como funciona
@@ -163,6 +167,20 @@ microservices.io
 ### Uma aplicação de exemplo
 
 ![-](https://micro-frontends.org/ressources/video/model-store-0.gif){width=100%}
+
+---
+
+### Mas antes
+
+---
+
+### Problemas
+
+1. Cargas úteis aumentadas
+2. Baixo desempenho
+3. Coding e Deploy mais complexo
+4. Dependências redundantes
+5. Risco de falta de comunicação (teams)
 
 ---
 
