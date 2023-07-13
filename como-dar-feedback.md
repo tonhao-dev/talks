@@ -1,7 +1,7 @@
 ---
 theme: "white"
 transition: "slide"
-title: "Micro Frontend"
+title: "Como dar feedback"
 enableMenu: true
 enableSearch: false
 enableChalkboard: true
@@ -22,7 +22,7 @@ _Luís Antônio (https://tonhao.dev)_
 
 ---
 
-### O que é um feedback?
+### 1. O que é um feedback?
 
 ---
 
@@ -31,7 +31,7 @@ Feedback, significa opinião, retorno, avaliação ou comentário para avaliar u
 
 ---
 
-### Quando vamos dar feedback vamos nos ater a 2 pessoas
+### 2. Quando vamos dar feedback vamos nos ater a 2 pessoas
 1. Novatos
 2. Especialistas
 
@@ -55,7 +55,7 @@ Pessoas que já acumulam experiência em uma função e sabem como executar
 
 ---
 
-### Imagine o seguinte cenário
+### 3. Imagine o seguinte cenário
 
 ---
 
@@ -121,7 +121,7 @@ Se você sempre elogia antes de dar uma má notícia...
 
 ---
 
-### Tonhão, fiz tudo, fui lá...
+### 4. Tonhão, fiz tudo, fui lá...
 
 ---
 
@@ -151,7 +151,7 @@ Se você sempre elogia antes de dar uma má notícia...
 
 ---
 
-### Agora, e funcionários de alto desempenho
+### 5. Agora, e funcionários de alto desempenho
 
 ---
 
@@ -175,7 +175,7 @@ Se você sempre elogia antes de dar uma má notícia...
 
 ---
 
-### Avaliações de desempenho eficientes
+### 6. Avaliações de desempenho eficientes
 
 ---
 
@@ -187,4 +187,22 @@ Se você sempre elogia antes de dar uma má notícia...
 
 ---
 
-### Dicas para manter um histórico
+### 7. Dicas para manter um histórico
+
+---
+
+### Diário de bordo
+
+1. Registre a data e os detalhes do que ocorreu
+2. Atenha-se aos fatos
+3. Sempre que possível, faça anotações no mesmo dia em que os eventos ocorreram
+4. Guarde emails, conversas e evidências do seu desempenho positivo
+5. Documente também problemas que você teve e como você lidou
+
+---
+
+### O jeito certo de dar feedbacks
+
+_Luís Antônio (https://tonhao.dev)_
+
+---
