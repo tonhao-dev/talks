@@ -43,6 +43,7 @@ When you think about "data", what do you think?
 </section>
 
 ---
+
 ### But, in the real world
 ![-](https://media3.giphy.com/media/QsfwW8RbsZfCKhbaZX/giphy.gif)
 
@@ -73,7 +74,7 @@ When you think about "data", what do you think?
 - Records in the log are stored in the order they were appended.
 - Reads proceed from left to right.
 - Lets use the datetime as a key
-- 
+
 </section>
 
 ---
@@ -200,7 +201,7 @@ We have a remote web service based on HTTP will respond to the following command
 3. When
 4. Where
 5. Why
-6. 
+
 </section>
 
 ---
@@ -404,7 +405,7 @@ We have a remote web service based on HTTP will respond to the following command
 - info 
 - debug
 - trace
-- 
+
 </section>
 
 ---
