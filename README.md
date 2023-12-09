@@ -14,4 +14,4 @@ Repositório com os slides, em formato de código, que eu uso durante minhas apr
 3. Instale a extensão [vscode-reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal)
 4. Escolha uma das apresentações
 5. No vs code, clique no icone "VSCode Reveal"
-6. No menu superior, clieque em "RevealJS: Open presentation on browser"
+6. No menu superior, clique em "RevealJS: Open presentation on browser"
