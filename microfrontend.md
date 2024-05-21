@@ -14,7 +14,7 @@ _Luís Antônio (tonhao.dev)_
 
 ---
 
-![-](https://cdn.discordapp.com/attachments/839151579416363048/1119037687723204728/FyslugYWAAARIpI.png)
+![-](https://miro.medium.com/v2/resize:fit:1041/0*GfonlIdBd8PLC6Tp.png)
 
 ---
 
@@ -66,7 +66,7 @@ _Luís Antônio (tonhao.dev)_
 
 ### Front & Back
 
-![-](https://cdn.discordapp.com/attachments/839151579416363048/1119019615209664632/PI2zu0k3yIgAAAABJRU5ErkJggg.png)
+![-](https://rgw.cloudpoint.tcpro.cz/swift/v1/KEY_0efe203c42c0402f9402a570302dc066/blog_new/Microservices-vs-Monolithic-Architectures/Microservices-vs-Monolithic-Architectures-01.webp)
 
 ---
 
@@ -102,7 +102,7 @@ microservices.io
 
 ### Recaptulando 
 
-![-](https://media.discordapp.net/attachments/839151579416363048/1119018869445644348/Untitled.png?width=569&height=541)
+![-](https://miro.medium.com/v2/resize:fit:1308/0*hootD597dp9Pg56T.png)
 
 ---
 
@@ -120,7 +120,7 @@ microservices.io
 
 ### Microfrontend
 
-![-](https://media.discordapp.net/attachments/839151579416363048/1119021566387302440/Untitled.png?width=829&height=475)
+![-](https://cdn.plainconcepts.com/wp-content/uploads/2022/04/microfrontend.jpg)
 
 ---
 
