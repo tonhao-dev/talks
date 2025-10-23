@@ -159,7 +159,7 @@ Baseada no modelo **Cliente-Servidor**, composta por:
 
 ---
 
-![-](./images/candeiasadmin/c4-nivel1.png){width=18%}
+![-](./images/candeiasadmin/c4-nivel1.png){width=16%}
 
 ---
 
@@ -173,12 +173,12 @@ Baseada no modelo **Cliente-Servidor**, composta por:
 
 ### Tecnologias Utilizadas
 
-* 🟦 **Next.js (React)** – Criação de interfaces dinâmicas e responsivas.
-* 🟢 **Node.js + Express** – Servidor rápido e modular.
-* 🐘 **PostgreSQL** – Armazenamento relacional dos dados.
-* 🐳 **Docker** – Padronização de ambientes.
-* 🔐 **JWT + OAuth2** – Autenticação segura.
-* 🧪 **Jest** – Testes automatizados de integração e unidade.
+* **Next.js (React)** – Criação de interfaces dinâmicas e responsivas.
+* **Node.js + Express** – Servidor rápido e modular.
+* **PostgreSQL** – Armazenamento relacional dos dados.
+* **Docker** – Padronização de ambientes.
+* **JWT + OAuth2** – Autenticação segura.
+* **Jest** – Testes automatizados de integração e unidade.
 
 ---
 
