@@ -185,6 +185,6 @@ Sugestões de perguntas:
 
 ### Obrigado!
 
-LinkedIn: tonhao-dev  
-GitHub: tonhao-dev  
-Instagram: dev__luis  
+LinkedIn: [tonhao-dev](https://www.linkedin.com/in/tonhao-dev/)  
+GitHub: [tonhao-dev](https://github.com/tonhao-dev)  
+Instagram: [tonhao.dev](https://www.instagram.com/tonhao.dev/)  
