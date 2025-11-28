@@ -1,7 +1,7 @@
 ---
 theme: "white"
 transition: "slide"
-title: "Minha Trajetória no IFAC e Carreira em Programação"
+title: "Ask me Anything"
 enableMenu: true
 enableSearch: false
 enableChalkboard: true
@@ -11,18 +11,26 @@ hashOneBasedIndex: false
 
 ### Luís Antônio (Tonhão)
 
-Desenvolvedor Frontend
+Software Engineer at Techbiz Forense Digital
 
-Egresso do IFAC
+Egresso do IFAC (Técnico em Informática)
 
 Prof. na Algorithms School
 
 ---
 
+### Júlio Rodrigues
+
+Software Engineer at Magalu
+
+Egresso do IFAC (Técnico em Informática)
+
+---
+
 ### Sobre a apresentação
 
-- Minha trajetória no IFAC  
-- Como entrei no mundo da programação  
+- Nossa trajetória no IFAC  
+- Como entramos no mundo da programação  
 - Experiências profissionais  
 - **Pergunte qualquer coisa (AMA)**
 
@@ -30,51 +38,38 @@ Prof. na Algorithms School
 
 ### Antes do IFAC
 
-- Curiosidade por tecnologia desde cedo  
-- Fiz o **Técnico em Informática para Internet** no IFAC  
-- Entrei sem saber quase nada de programação  
-- Primeiros contatos: C, C++, HTML, CSS, JS
-
 ---
 
-### Minha jornada no IFAC
+### Nossa jornada no IFAC
 
 - 2016–2019 → Técnico em informática (4 anos)
-- Participei de projetos, maratonas e eventos  
+- Participamos de projetos, maratonas e eventos  
 - Conheci áreas diferentes: redes, bancos de dados, web, segurança, design e etc. 
-- **Descobri que queria ser Dev Frontend**
 
 ---
 
 ### Projeto marcante: Sistema de fichas de almoço
 
-Meu primeiro projeto "real":  
-- Parceria com outros 2 colegas: Anderson e Júlio
+Nosso primeiro projeto "real":  
+- Parceria com outro colega: Anderson (leigo)
 - Feito para resolver um problema interno  
-- Desenvolvido com React, TypeScript e Node  
-- Me ensinou:  
+- Desenvolvido com HTML, CSS, Javascript, PHP e Flutter
+- Nos ensinou:  
   - versionamento com Git  
   - trabalhar com usuários reais  
   - importância de UX e simplicidade
 
 ---
 
-### Transição para o curso superior
-
-- 2020–2022 → Sistemas para Internet  
-- Entrei já sabendo o que tinha aprendido no técnico    
+### Transição para o curso superior   
 
 ---
 
 ### Como entrei no mercado?
 
-- QI (quem indica)  
-- Continuei estudando por conta  
-- Oportunidade veio com o **Grupo Recol**
-
 ---
 
-### Minha carreira até hoje
+### Carreira até hoje
 
 **2020 → Recol**  
 - Dashboards e sistemas internos  
@@ -82,7 +77,7 @@ Meu primeiro projeto "real":
 
 ---
 
-### Minha carreira até hoje
+### Carreira até hoje
 
 **2021–2023 → Usabit Global**  
 - Mobile + Web  
@@ -91,7 +86,7 @@ Meu primeiro projeto "real":
 
 ---
 
-### Minha carreira até hoje
+### Carreira até hoje
 
 **2023–2024 → MB Labs**  
 - App de financiamento de campanhas coletivas  
@@ -100,7 +95,7 @@ Meu primeiro projeto "real":
 
 ---
 
-### Minha carreira até hoje
+### Carreira até hoje
 
 **2024–2024 → B&T Câmbio**  
 - Sustentação dos sistemas da maior corretora de câmbio do Brasil  
@@ -109,7 +104,7 @@ Meu primeiro projeto "real":
 
 ---
 
-### Minha carreira até hoje
+### Carreira até hoje
 
 **2025–Atual → Techbiz Forense**  
 - Snap Reports (OSINT)  
@@ -118,7 +113,7 @@ Meu primeiro projeto "real":
 
 ---
 
-### O que realmente mudou minha carreira
+### O que realmente mudou nossa carreira
 
 - Consistência (todo dia um pouco)
 - Leitura (livros!)
@@ -170,6 +165,15 @@ Meu primeiro projeto "real":
 
 ---
 
+### Obrigado!
+
+Tonhão: [https://www.linkedin.com/in/tonhao-dev/](https://www.linkedin.com/in/tonhao-dev/)  
+___
+
+Júlio: [https://www.linkedin.com/in/juliocesar-dev/](https://www.linkedin.com/in/juliocesar-dev/)
+
+---
+
 ### Ask Me Anything 🙋‍♂️
 
 Sugestões de perguntas:
@@ -182,9 +186,3 @@ Sugestões de perguntas:
 - Mercado de trabalho hoje?
 
 ---
-
-### Obrigado!
-
-LinkedIn: [tonhao-dev](https://www.linkedin.com/in/tonhao-dev/)  
-GitHub: [tonhao-dev](https://github.com/tonhao-dev)  
-Instagram: [tonhao.dev](https://www.instagram.com/tonhao.dev/)  
