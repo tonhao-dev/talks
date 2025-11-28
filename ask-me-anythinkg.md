@@ -67,9 +67,11 @@ Nosso primeiro projeto "real":
 
 ### Como entrei no mercado?
 
+QI (Quem indica)
+
 ---
 
-### Carreira até hoje
+### Carreira até hoje (Tonhão)
 
 **2020 → Recol**  
 - Dashboards e sistemas internos  
@@ -77,7 +79,7 @@ Nosso primeiro projeto "real":
 
 ---
 
-### Carreira até hoje
+### Carreira até hoje (Tonhão)
 
 **2021–2023 → Usabit Global**  
 - Mobile + Web  
@@ -86,7 +88,7 @@ Nosso primeiro projeto "real":
 
 ---
 
-### Carreira até hoje
+### Carreira até hoje (Tonhão)
 
 **2023–2024 → MB Labs**  
 - App de financiamento de campanhas coletivas  
@@ -95,7 +97,7 @@ Nosso primeiro projeto "real":
 
 ---
 
-### Carreira até hoje
+### Carreira até hoje (Tonhão)
 
 **2024–2024 → B&T Câmbio**  
 - Sustentação dos sistemas da maior corretora de câmbio do Brasil  
@@ -104,12 +106,51 @@ Nosso primeiro projeto "real":
 
 ---
 
-### Carreira até hoje
+### Carreira até hoje (Tonhão)
 
 **2025–Atual → Techbiz Forense**  
 - Snap Reports (OSINT)  
 - Clientes: MPs, Polícia Civil, Polícia Científica, Polícia Federal etc.
 - Sede em Belo Horizonte - Minas Gerais
+
+---
+
+# Júlio
+
+---
+
+### Carreira até hoje (Júlio)
+
+**2019-2021 → Estágio Prefeitura** 
+- Manutenção de computadores
+- Suporte ao usuário
+- Desenvolvimento
+
+---
+
+### Carreira até hoje (Júlio)
+
+**2021-2022 → Desenvolvedor Prefeitura** 
+- Manutenção de sistemas legados
+- Desenvolvimento de novos sistemas
+
+---
+
+### Carreira até hoje (Júlio)
+
+**2021-2022 → Desenvolvedor SEPLAG**
+
+---
+
+### Carreira até hoje (Júlio)
+
+**2023-2024 → Desenvolvedor Backend TJAC**
+
+---
+
+### Carreira até hoje (Júlio)
+
+**2024-atual → Desenvolvedor Backend Magalu**
 
 ---
 
@@ -184,5 +225,3 @@ Sugestões de perguntas:
 - Vale a pena sair do Acre?  
 - Quanto ganha um dev frontend?  
 - Mercado de trabalho hoje?
-
----
